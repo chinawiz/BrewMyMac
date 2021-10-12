@@ -2,11 +2,13 @@ autoconf
 automake
 brotli
 c-ares
+ca-certificates
 cmake
 gdbm
 icu4c
 jemalloc
 libev
+libnghttp2
 libtool
 libuv
 m4
@@ -16,6 +18,7 @@ ninja
 node
 openssl@1.1
 pkg-config
+python@3.10
 python@3.9
 readline
 sphinx-doc

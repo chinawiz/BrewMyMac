@@ -4,15 +4,20 @@ brotli
 c-ares
 ca-certificates
 cmake
+gcc
 gdbm
+gmp
 icu4c
+isl
 jemalloc
 libev
+libmpc
 libnghttp2
 libtool
 libuv
 m4
 mpdecimal
+mpfr
 nghttp2
 ninja
 node
@@ -24,3 +29,4 @@ readline
 sphinx-doc
 sqlite
 xz
+zstd

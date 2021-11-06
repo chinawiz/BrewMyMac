@@ -28,5 +28,6 @@ python@3.9
 readline
 sphinx-doc
 sqlite
+squirrel
 xz
 zstd

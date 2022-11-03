@@ -102,6 +102,7 @@ rtmpdump
 rubberband
 rust
 sdl2
+six
 sphinx-doc
 sqlite
 squirrel
